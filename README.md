@@ -1,1 +1,4 @@
-My porfolio page
+# My porfolio page
+
+### Education
+Mathematics, Bachelor of Science
