@@ -30,16 +30,15 @@ Just to make the problem a little bit more challenging, we also asked for two mo
 
 Below is the performance comparison between two greedy algorithms.
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/compare_budget.png" title="Comparison of Greedy Algo, varying Budget" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="caption">
-    Number of Cars sold by two greedy algorithms, varying budget
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/compare_capacity_2.png" title="Comparison of Greedy Algo, varying Capacity" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="caption">
-    Number of Cars sold by two greedy algorithms, varying parking lot size constraint from zero to total size of all available cars
-    </div>
 </div>
+<div class="caption">
+    Number of Cars sold by two greedy algorithms, varying budget (Left) and parking lot size (Right) constraint from zero to total size of all available cars
+</div>
+
+The link to project repository is [Here](https://github.com/JustinTrenchcoat/MATH441_Project_2)
