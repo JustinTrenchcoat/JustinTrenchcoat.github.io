@@ -10,13 +10,13 @@ related_publications: false
 This is nothing but a course project on Combinatorial Optimization, where the group have to utilize every bit of learnt knowledge and apply it to a real-world problem. This project is under the context of maximizing profit of a used-car dealership(not a real one, of course!) by managing the number of cars to buy in, constraint by budget and storage size. Our group utilzied both linear programming solver and heuristics algorithms (I wrote two of them!), and compared their performance.
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-md mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/algo_fuel.png" title="algo image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-md mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/greedy_budget_fuel_type.png" title="budget" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-md mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/greedy_size_fuel_type.png" title="size" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
