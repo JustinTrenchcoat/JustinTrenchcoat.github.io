@@ -14,10 +14,10 @@ This is nothing but a course project on Combinatorial Optimization, where the gr
         {% include figure.liquid loading="eager" path="assets/img/algo_fuel.png" title="algo image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/greedy_budget_fuel.png" title="budget" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/greedy_budget_fuel_type.png" title="budget" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/greedy_size_fuel.png" title="size" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/greedy_size_fuel_type.png" title="size" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -38,7 +38,7 @@ Below is the performance comparison between two greedy algorithms.
     </div>
 </div>
 <div class="caption">
-    Number of Cars sold by two greedy algorithms, varying budget (Left) and parking lot size (Right) constraint from zero to total size of all available cars
+    Number of Cars sold by two greedy algorithms, varying budget (Top) and parking lot size (Down) constraint from zero to total size of all available cars
 </div>
 
 The link to project repository is [Here](https://github.com/JustinTrenchcoat/MATH441_Project_2)
