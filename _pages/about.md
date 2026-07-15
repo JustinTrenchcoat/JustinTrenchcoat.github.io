@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. "Questioning is the piety of thought."
+subtitle: <a href='#'>Master's Student in Data Science</a>. "Sapere aude."
 
 profile:
   align: right
