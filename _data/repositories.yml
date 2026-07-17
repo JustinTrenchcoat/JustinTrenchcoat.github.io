@@ -1,14 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - JustinTrenchcoat
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - JustinTrenchcoat/2023DSProject
+  - JustinTrenchcoat/MATH441_Project_2
+  - JustinTrenchcoat/Bayesian_Stat_2026
+  - JustinTrenchcoat/Bayesian_Summer_2026
