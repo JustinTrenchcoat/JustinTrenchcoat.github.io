@@ -2,9 +2,9 @@
 title: "Computing for Applied Mathematics"
 collection: teaching
 type: "Undergraduate/Graduate crosslisted course"
-permalink: /teaching/2025-spring-teaching-1
+permalink: /teaching/2026-spring-teaching-1
 venue: "Johns Hopkinds University, Department of Applied Mathematics and Statistics"
-date: 2025-01-12
+date: 2026-01-12
 location: "Baltimore, MD, United States"
 ---
 **Responsibilities**
