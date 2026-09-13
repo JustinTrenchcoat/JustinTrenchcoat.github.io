@@ -3,7 +3,7 @@ title: "Applied Statistics and Data Analysis (TA)"
 collection: teaching
 type: "Undergraduate/Graduate crosslisted course"
 permalink: /teaching/2026-fall-teaching-2
-venue: "Johns Hopkinds University, Department of Applied Mathematics and Statistics"
+venue: "Johns Hopkins University, Department of Applied Mathematics and Statistics"
 date: 2026-08-31
 location: "Baltimore, MD, United States"
 ---
