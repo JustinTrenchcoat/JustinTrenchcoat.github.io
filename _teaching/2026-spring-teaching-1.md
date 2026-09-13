@@ -1,9 +1,9 @@
 ---
-title: "Computing for Applied Mathematics"
+title: "Computing for Applied Mathematics (TA)"
 collection: teaching
 type: "Undergraduate/Graduate crosslisted course"
 permalink: /teaching/2026-spring-teaching-1
-venue: "Johns Hopkinds University, Department of Applied Mathematics and Statistics"
+venue: "Johns Hopkins University, Department of Applied Mathematics and Statistics"
 date: 2026-01-12
 location: "Baltimore, MD, United States"
 ---
