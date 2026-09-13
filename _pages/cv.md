@@ -11,26 +11,35 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S.E. in Data Science, Johns Hopkins University, 2026
+* B.S. in Mathematics (Distinction), University of British Columbia, 2025
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2026: Degree Capstone Project
+  * Johns Hopkins University, MD, United States
+  * Project Title: Many-Short-Chain parallel MCMC: An Investigation of Convergence Diagnostics and Initialization Strategies
+  * Supervisor: Dr. Sergey Kushnarev
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2026: Self-Initiated Research Project
+  * Johns Hopkins University, MD, United States
+  * Project Title: Many-Short-Chain parallel MCMC: An Investigation of Convergence Diagnostics and Initialization Strategies
+  * Supervisor: Dr. Sergey Kushnarev
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2025: Research Assistant
+  * University of British Columbia, Vancouver, BC, Canada
+  * Project Title: Researching Ocean Mixing Processes in the Arctic Ocean: Mechanism of Thermohaline Staircases in Beaufort Gyre Region
+  * Supervisor: Dr. Stephanie Waterman
+    
+* Summer 2024: Research Assistant
+  * Hongkong University of Science and Technology, Hong Kong SAR, China
+  * Project Title: Research and Development of Machine Learning Technologies for Location-Based and Video Analytics Applications
+  * Supervisor: Dr. Gary Shueng-Han Chan
+ 
+* Summer 2023: CIS Research Program–Numerical Models and Machine Learning Applications
+  * Shanghai Jiao Tong University, Shanghai, China
+  * Project Title: A Study of the Sea Surface Temperature and Sea Surface Salinity Regimes in the Southern Atlantic Ocean
+  * Supervisor: Dr. Anastasia Romanou
   
 Skills
 ======
@@ -53,12 +62,12 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+Teaching Experience
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Honors and Awards
 ======
-* Currently signed in to 43 different slack teams
+* 
