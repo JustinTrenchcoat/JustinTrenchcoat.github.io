@@ -16,3 +16,5 @@ I am interested in how humans and intelligent systems learn, reason, and make de
 More broadly, I am fascinated by questions surrounding intelligence, knowledge, and human understanding. This has led me to explore philosophy, particularly the traditions of Kant, Hegel, Marx, Heidegger, and Wittgenstein, as well as philosophy of science. I view these perspectives not as alternatives to scientific inquiry, but as complementary ways of thinking about how we model, interpret, and act within the world.
 
 I enjoy exploring unfamiliar ideas, connecting concepts across disciplines, and pursuing questions whose answers are not immediately obvious. In the long run, I hope to contribute to the development of theories and systems that help humans and intelligent machines make better decisions in complex and uncertain environments.
+
+"The only thing that can guide us toward the truth is our own observation, reflection, and awareness."
